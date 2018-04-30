@@ -1,4 +1,4 @@
-# MochaChaiIstanbulNyc
+# Mocha Chai Istanbul NYC
 
 If you think writing test cases will slow down your development process, then you may or may not be right. You are right when you are implementing a one page application or a simple prototype project; also, you may be wrong in these cases because testing is simple and saves your time. Really!!!!!!!!
 
