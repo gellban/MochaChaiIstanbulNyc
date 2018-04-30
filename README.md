@@ -10,6 +10,12 @@ Mocha is a JavaScript test framework running on Node.js and in the browser, to r
 
 Istanbul is a JavaScript tool to generate the coverage report. It is another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. You do not need to write any code to run the coverage report. You just need the command line to generate an HTML report for all your JS code and you can include or exclude whatever in the package.json file easily. NYC is the Istanbul command line interface.
 
+# More details:
+http://codeoverflow.ebigdatai.com/codeoverflow/index.php/2018/04/22/restful-testing-and-code-coverage-using-mocha-chai-istanbul-nyc-fs-node-js-and-express/
+
+#Step by step video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cxUqnliEWXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #installation
 	
 sudo npm i -g mocha istanbul nyc --save-dev
